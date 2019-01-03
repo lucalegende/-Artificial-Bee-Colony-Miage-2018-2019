@@ -1,0 +1,32 @@
+﻿  Artificial Bee Colony - Project.cpp
+e:\ia\artificial bee colony - visual studio\artificial bee colony - project\artificial bee colony - project.cpp(32): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Benchmark.cpp
+  MyAlgorithm.cpp
+e:\ia\artificial bee colony - visual studio\artificial bee colony - project\myalgorithm.cpp(37): warning C4018: '<' : incompatibilité signed/unsigned
+e:\ia\artificial bee colony - visual studio\artificial bee colony - project\myalgorithm.cpp(56): warning C4018: '<' : incompatibilité signed/unsigned
+e:\ia\artificial bee colony - visual studio\artificial bee colony - project\myalgorithm.cpp(164): warning C4018: '<' : incompatibilité signed/unsigned
+e:\ia\artificial bee colony - visual studio\artificial bee colony - project\myalgorithm.cpp(191): warning C4018: '<' : incompatibilité signed/unsigned
+e:\ia\artificial bee colony - visual studio\artificial bee colony - project\myalgorithm.cpp(233): warning C4244: 'argument' : conversion de 'double' en 'const unsigned int', perte possible de données
+e:\ia\artificial bee colony - visual studio\artificial bee colony - project\myalgorithm.cpp(249): warning C4244: 'argument' : conversion de 'double' en 'const unsigned int', perte possible de données
+e:\ia\artificial bee colony - visual studio\artificial bee colony - project\myalgorithm.cpp(313): warning C4018: '<' : incompatibilité signed/unsigned
+e:\ia\artificial bee colony - visual studio\artificial bee colony - project\myalgorithm.cpp(319): warning C4018: '<' : incompatibilité signed/unsigned
+e:\ia\artificial bee colony - visual studio\artificial bee colony - project\myalgorithm.cpp(347): warning C4018: '<' : incompatibilité signed/unsigned
+e:\ia\artificial bee colony - visual studio\artificial bee colony - project\myalgorithm.cpp(376): warning C4018: '<' : incompatibilité signed/unsigned
+e:\ia\artificial bee colony - visual studio\artificial bee colony - project\myalgorithm.cpp(399): warning C4018: '<' : incompatibilité signed/unsigned
+e:\ia\artificial bee colony - visual studio\artificial bee colony - project\myalgorithm.cpp(403): warning C4018: '<' : incompatibilité signed/unsigned
+e:\ia\artificial bee colony - visual studio\artificial bee colony - project\myalgorithm.cpp(431): warning C4018: '<' : incompatibilité signed/unsigned
+e:\ia\artificial bee colony - visual studio\artificial bee colony - project\myalgorithm.cpp(434): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+e:\ia\artificial bee colony - visual studio\artificial bee colony - project\myalgorithm.cpp(453): warning C4018: '<' : incompatibilité signed/unsigned
+e:\ia\artificial bee colony - visual studio\artificial bee colony - project\myalgorithm.cpp(473): warning C4018: '<' : incompatibilité signed/unsigned
+e:\ia\artificial bee colony - visual studio\artificial bee colony - project\myalgorithm.cpp(481): warning C4018: '>=' : incompatibilité signed/unsigned
+e:\ia\artificial bee colony - visual studio\artificial bee colony - project\myalgorithm.cpp(503): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+e:\ia\artificial bee colony - visual studio\artificial bee colony - project\myalgorithm.cpp(504): warning C4018: '>=' : incompatibilité signed/unsigned
+e:\ia\artificial bee colony - visual studio\artificial bee colony - project\myalgorithm.cpp(518): warning C4244: 'argument' : conversion de 'double' en 'const unsigned int', perte possible de données
+e:\ia\artificial bee colony - visual studio\artificial bee colony - project\myalgorithm.cpp(591): warning C4018: '<' : incompatibilité signed/unsigned
+e:\ia\artificial bee colony - visual studio\artificial bee colony - project\myalgorithm.cpp(588): warning C4101: 'neighbour' : variable locale non référencée
+  Problem.cpp
+  Solution.cpp
+e:\ia\artificial bee colony - visual studio\artificial bee colony - project\solution.cpp(277): warning C4018: '<' : incompatibilité signed/unsigned
+e:\ia\artificial bee colony - visual studio\artificial bee colony - project\solution.cpp(353): warning C4018: '<' : incompatibilité signed/unsigned
+  Génération de code en cours...
+  Artificial Bee Colony - Project.vcxproj -> E:\IA\Artificial Bee Colony - Visual Studio\Debug\Artificial Bee Colony - Project.exe

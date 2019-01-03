@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Artificial Bee Colony" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Artificial Bee Colony" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+					<Add directory="../Artificial Bee Colony" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Artificial Bee Colony" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+					<Add directory="../Artificial Bee Colony" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Benchmark.cpp" />
+		<Unit filename="Benchmark.h" />
+		<Unit filename="MyAlgorithm.cpp" />
+		<Unit filename="MyAlgorithm.h" />
+		<Unit filename="Problem.cpp" />
+		<Unit filename="Problem.h" />
+		<Unit filename="SetUpParams.cpp" />
+		<Unit filename="SetUpParams.h" />
+		<Unit filename="Solution.cpp" />
+		<Unit filename="Solution.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
